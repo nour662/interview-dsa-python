@@ -1,0 +1,184 @@
+[
+  {
+    "number": 1,
+    "title": "Reason about work before writing code",
+    "symbol": "count_equal_pairs",
+    "file": "lessons/01-reason-about-work-before-writing-code.md",
+    "exercise": "exercises/01-reason-about-work-before-writing-code.py"
+  },
+  {
+    "number": 2,
+    "title": "Arrays, strings, and boundary handling",
+    "symbol": "compress_runs",
+    "file": "lessons/02-arrays-strings-and-boundary-handling.md",
+    "exercise": "exercises/02-arrays-strings-and-boundary-handling.py"
+  },
+  {
+    "number": 3,
+    "title": "Hash maps: remember what a scan cannot",
+    "symbol": "earliest_unique",
+    "file": "lessons/03-hash-maps-remember-what-a-scan-cannot.md",
+    "exercise": "exercises/03-hash-maps-remember-what-a-scan-cannot.py"
+  },
+  {
+    "number": 4,
+    "title": "Two pointers and monotone movement",
+    "symbol": "closest_pair",
+    "file": "lessons/04-two-pointers-and-monotone-movement.md",
+    "exercise": "exercises/04-two-pointers-and-monotone-movement.py"
+  },
+  {
+    "number": 5,
+    "title": "Sliding windows and reversible state",
+    "symbol": "longest_budget_window",
+    "file": "lessons/05-sliding-windows-and-reversible-state.md",
+    "exercise": "exercises/05-sliding-windows-and-reversible-state.py"
+  },
+  {
+    "number": 6,
+    "title": "Prefix sums for signed ranges",
+    "symbol": "count_target_ranges",
+    "file": "lessons/06-prefix-sums-for-signed-ranges.md",
+    "exercise": "exercises/06-prefix-sums-for-signed-ranges.py"
+  },
+  {
+    "number": 7,
+    "title": "Stacks and unresolved candidates",
+    "symbol": "next_warmer_wait",
+    "file": "lessons/07-stacks-and-unresolved-candidates.md",
+    "exercise": "exercises/07-stacks-and-unresolved-candidates.py"
+  },
+  {
+    "number": 8,
+    "title": "Queues and shortest routes without weights",
+    "symbol": "nearest_exit_steps",
+    "file": "lessons/08-queues-and-shortest-routes-without-weights.md",
+    "exercise": "exercises/08-queues-and-shortest-routes-without-weights.py"
+  },
+  {
+    "number": 9,
+    "title": "Linked lists and safe pointer changes",
+    "symbol": "reverse_chain",
+    "file": "lessons/09-linked-lists-and-safe-pointer-changes.md",
+    "exercise": "exercises/09-linked-lists-and-safe-pointer-changes.py"
+  },
+  {
+    "number": 10,
+    "title": "Binary search with explicit boundaries",
+    "symbol": "lower_bound",
+    "file": "lessons/10-binary-search-with-explicit-boundaries.md",
+    "exercise": "exercises/10-binary-search-with-explicit-boundaries.py"
+  },
+  {
+    "number": 11,
+    "title": "Recursion as a contract for smaller work",
+    "symbol": "nested_total",
+    "file": "lessons/11-recursion-as-a-contract-for-smaller-work.md",
+    "exercise": "exercises/11-recursion-as-a-contract-for-smaller-work.py"
+  },
+  {
+    "number": 12,
+    "title": "Tree DFS: return one fact, update another",
+    "symbol": "tree_diameter",
+    "file": "lessons/12-tree-dfs-return-one-fact-update-another.md",
+    "exercise": "exercises/12-tree-dfs-return-one-fact-update-another.py"
+  },
+  {
+    "number": 13,
+    "title": "Tree BFS and level boundaries",
+    "symbol": "level_means",
+    "file": "lessons/13-tree-bfs-and-level-boundaries.md",
+    "exercise": "exercises/13-tree-bfs-and-level-boundaries.py"
+  },
+  {
+    "number": 14,
+    "title": "Binary search trees and inherited constraints",
+    "symbol": "valid_bst",
+    "file": "lessons/14-binary-search-trees-and-inherited-constraints.md",
+    "exercise": "exercises/14-binary-search-trees-and-inherited-constraints.py"
+  },
+  {
+    "number": 15,
+    "title": "Graphs: components and visited state",
+    "symbol": "component_count",
+    "file": "lessons/15-graphs-components-and-visited-state.md",
+    "exercise": "exercises/15-graphs-components-and-visited-state.py"
+  },
+  {
+    "number": 16,
+    "title": "Directed dependencies and topological order",
+    "symbol": "dependency_order",
+    "file": "lessons/16-directed-dependencies-and-topological-order.md",
+    "exercise": "exercises/16-directed-dependencies-and-topological-order.py"
+  },
+  {
+    "number": 17,
+    "title": "Heaps and keeping only the best candidates",
+    "symbol": "kth_largest",
+    "file": "lessons/17-heaps-and-keeping-only-the-best-candidates.md",
+    "exercise": "exercises/17-heaps-and-keeping-only-the-best-candidates.py"
+  },
+  {
+    "number": 18,
+    "title": "Greedy choices need an exchange argument",
+    "symbol": "max_meetings",
+    "file": "lessons/18-greedy-choices-need-an-exchange-argument.md",
+    "exercise": "exercises/18-greedy-choices-need-an-exchange-argument.py"
+  },
+  {
+    "number": 19,
+    "title": "Backtracking: choose, explore, undo",
+    "symbol": "choose_tags",
+    "file": "lessons/19-backtracking-choose-explore-undo.md",
+    "exercise": "exercises/19-backtracking-choose-explore-undo.py"
+  },
+  {
+    "number": 20,
+    "title": "Dynamic programming on one dimension",
+    "symbol": "min_tokens",
+    "file": "lessons/20-dynamic-programming-on-one-dimension.md",
+    "exercise": "exercises/20-dynamic-programming-on-one-dimension.py"
+  },
+  {
+    "number": 21,
+    "title": "Grid DP and careful memory reuse",
+    "symbol": "minimum_grid_cost",
+    "file": "lessons/21-grid-dp-and-careful-memory-reuse.md",
+    "exercise": "exercises/21-grid-dp-and-careful-memory-reuse.py"
+  },
+  {
+    "number": 22,
+    "title": "Tries: organize information by shared prefixes",
+    "symbol": "PrefixIndex",
+    "file": "lessons/22-tries-organize-information-by-shared-prefixes.md",
+    "exercise": "exercises/22-tries-organize-information-by-shared-prefixes.py"
+  },
+  {
+    "number": 23,
+    "title": "Disjoint sets for growing connectivity",
+    "symbol": "DisjointSets",
+    "file": "lessons/23-disjoint-sets-for-growing-connectivity.md",
+    "exercise": "exercises/23-disjoint-sets-for-growing-connectivity.py"
+  },
+  {
+    "number": 24,
+    "title": "Weighted routes and Dijkstra\u2019s frontier",
+    "symbol": "shortest_costs",
+    "file": "lessons/24-weighted-routes-and-dijkstra-s-frontier.md",
+    "exercise": "exercises/24-weighted-routes-and-dijkstra-s-frontier.py"
+  },
+  {
+    "number": 25,
+    "title": "Bits and representation contracts",
+    "symbol": "differing_bits",
+    "file": "lessons/25-bits-and-representation-contracts.md",
+    "exercise": "exercises/25-bits-and-representation-contracts.py"
+  },
+  {
+    "number": 26,
+    "title": "A complete interview: clarify, derive, test",
+    "symbol": "busiest_span",
+    "file": "lessons/26-a-complete-interview-clarify-derive-test.md",
+    "exercise": "exercises/26-a-complete-interview-clarify-derive-test.py"
+  }
+]
